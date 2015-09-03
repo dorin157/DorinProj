@@ -1,0 +1,12 @@
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\Serialization.exe.config
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\DAL.dll
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\Models.dll
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\DAL.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\Models.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\obj\Debug\Serialization.exe
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\obj\Debug\Serialization.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\Common.dll
+D:\Study\Personal\VisualStudioPro\Serialization\Serialization\bin\Debug\Common.pdb

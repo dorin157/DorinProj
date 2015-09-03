@@ -1,0 +1,9 @@
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\bin\Debug\DAL.dll
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\bin\Debug\DAL.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\bin\Debug\Models.dll
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\bin\Debug\Models.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\obj\Debug\DAL.dll
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\obj\Debug\DAL.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\bin\Debug\Common.dll
+D:\Study\Personal\VisualStudioPro\Serialization\DAL\bin\Debug\Common.pdb

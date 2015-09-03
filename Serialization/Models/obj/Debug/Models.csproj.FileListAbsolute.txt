@@ -1,0 +1,7 @@
+D:\Study\Personal\VisualStudioPro\Serialization\Models\bin\Debug\Models.dll
+D:\Study\Personal\VisualStudioPro\Serialization\Models\bin\Debug\Models.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\Models\obj\Debug\Models.dll
+D:\Study\Personal\VisualStudioPro\Serialization\Models\obj\Debug\Models.pdb
+D:\Study\Personal\VisualStudioPro\Serialization\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Study\Personal\VisualStudioPro\Serialization\Models\bin\Debug\Common.dll
+D:\Study\Personal\VisualStudioPro\Serialization\Models\bin\Debug\Common.pdb
