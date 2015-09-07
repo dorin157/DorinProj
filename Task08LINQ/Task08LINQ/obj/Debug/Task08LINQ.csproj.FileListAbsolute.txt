@@ -1,0 +1,6 @@
+D:\Study\Personal\VisualStudioPro\Task08LINQ\Task08LINQ\bin\Debug\Task08LINQ.exe.config
+D:\Study\Personal\VisualStudioPro\Task08LINQ\Task08LINQ\bin\Debug\Task08LINQ.exe
+D:\Study\Personal\VisualStudioPro\Task08LINQ\Task08LINQ\bin\Debug\Task08LINQ.pdb
+D:\Study\Personal\VisualStudioPro\Task08LINQ\Task08LINQ\obj\Debug\Task08LINQ.csprojResolveAssemblyReference.cache
+D:\Study\Personal\VisualStudioPro\Task08LINQ\Task08LINQ\obj\Debug\Task08LINQ.exe
+D:\Study\Personal\VisualStudioPro\Task08LINQ\Task08LINQ\obj\Debug\Task08LINQ.pdb
